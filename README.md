@@ -189,6 +189,31 @@ Conversational AI assistant for online shopping, handling customer queries, prod
 
 ---
 
+## 📈 Learning & Growth
+
+<details>
+<summary><strong>🔹 Advanced AI & ML</strong></summary>
+- Reinforcement Learning for real-world applications  
+- Transformers, LLM fine-tuning, and Multimodal AI systems
+</details>
+
+<details>
+<summary><strong>🔹 MLOps & DevOps</strong></summary>
+- Kubernetes orchestration and cluster management  
+- Prometheus & Grafana for monitoring AI pipelines  
+</details>
+
+<details>
+<summary><strong>🔹 Backend & Cloud</strong></summary>
+- Advanced Django & FastAPI architecture design  
+- Scalable database design & optimization
+</details>
+
+<details>
+<summary><strong>🔹 Research & System Design</strong></summary> 
+- Algorithms, Data Structures & Optimization  
+- Designing robust, maintainable, and scalable pipelines
+</details>
 
 
                                                                                                                                                                                                      
