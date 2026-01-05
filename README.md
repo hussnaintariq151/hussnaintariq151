@@ -96,6 +96,16 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 - Machine Learning in Production  
 </details>
 
+<details>
+<summary><strong> Geeky Shows </strong></summary>
+           
+- Django
+- DRF  
+</details>
+
+
+
+
 </details>
 ---
  
