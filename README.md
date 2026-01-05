@@ -58,12 +58,14 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 
   <details>
   <summary><strong> Stanford University </strong></summary>
+
    - CS229: Machine Learning  
    - CS224u: Natural Language Understanding  
    - CS224n: Natural Language Processing with Deep Learning  
    - CS230: Deep Learning  
    - CS231n: Deep Learning for Computer Vision 
   </details>
+<br>
 
  <details>
 <summary><strong> Harvard University </strong></summary>
@@ -84,18 +86,22 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 - LangChain, LangGraph
 - FastAPI
 </details>
+<br>
 
 <details>
 <summary><strong> Vikash Das </strong></summary>
+<br>
            
 - MLOPs   
 </details>
+<br>
 
 <details>
 <summary><strong> DeepLearning.AI </strong></summary>
            
 - Machine Learning in Production  
 </details>
+<br>
 
 <details>
 <summary><strong> Geeky Shows </strong></summary>
@@ -103,8 +109,6 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 - Django
 - DRF  
 </details>
-
-
 
 
 </details>
