@@ -55,7 +55,7 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 <summary><strong>📝 Self learning </strong></summary>
 
 <details>
-<summary><strong> **Stanford University** </strong></summary>
+<summary><strong> Stanford University </strong></summary>
      - CS229: Machine Learning  
      - CS224u: Natural Language Understanding  
      - CS224n: Natural Language Processing with Deep Learning  
@@ -64,14 +64,14 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 </details>
 
 <details>
-<summary><strong> **Harvard University** </strong></summary>
+<summary><strong> Harvard University </strong></summary>
     - CS50s: Introduction to Databases with SQL  
     - CS50s: Introduction to AI with Python  
     - CS50s: Introduction to Data Science with Python
 </details>
 
 <details>
-<summary><strong> **CampusX** </strong></summary>
+<summary><strong> CampusX </strong></summary>
     - Python, SQL,  
     - Machine Learning, Deep Learning (Techniques + Algorithms)
     - Mathematics for Machine Learning and Data Science
@@ -81,7 +81,12 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 </details>
 
 <details>
-<summary><strong> **DeepLearning.AI** </strong></summary>
+<summary><strong> Vikash Das </strong></summary>
+    - MLOPs   
+</details>
+
+<details>
+<summary><strong> DeepLearning.AI </strong></summary>
     - Machine Learning in Production  
 </details>
 
