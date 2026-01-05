@@ -38,6 +38,7 @@
 **AI & DevOps Engineer** with experience in **ADF, Databricks, DVC, MLFLOW, ML, DL, Gen AI, MCP server, FastAPI, MLOps, IaC, Github Actions, Containerization, cloud (AWS & Azure), and backend development**. Strong in **system design** so actively boosting backend expertise or orchestration techniques (Kubernetes).  
 
 We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to deliver **end-to-end AI and backend-heavy projects**.
+
 🤝 **Our philosophy:** We believe books build engineers, and strong systems start with algorithms, not frameworks.
 
 
