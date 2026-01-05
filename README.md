@@ -111,6 +111,7 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 </details>
 
 </details>
+
 ---
 
 <details>
@@ -126,6 +127,9 @@ These books I have read to strengthen my **DevOps, MLOps, cloud, backend, and da
 - **Designing Data-Intensive Applications** – Martin Kleppmann  
 
 </details>
+
+---
+
 
  
 
