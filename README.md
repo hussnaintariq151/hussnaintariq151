@@ -141,7 +141,7 @@ These books I have read to strengthen my **DevOps, MLOps, cloud, backend, and da
 </details>
 
 <details>
-<summary><strong>Upwork Projects (2024–Present)</strong></summary>
+<summary><strong>Upwork Projects (2025–Present)</strong></summary>
 
 - Delivered **end-to-end AI & ML solutions** for clients, including predictive models, web automation, and RAG chatbots  
 - Built **FastAPI APIs** and deployed models using **Docker, CI/CD, and MLOps pipelines**  
@@ -151,6 +151,13 @@ These books I have read to strengthen my **DevOps, MLOps, cloud, backend, and da
 </details>
 
 ---
+
+## 🛠️ Technical Arsenal
+
+| Languages | Frameworks | Tools | Libraries | Cloud / DB |
+|-----------|------------|-------|-----------|------------|
+| Python, SQL, Bash, PowerShell | Django, FastAPI | Docker, GitHub Actions, Terraform, CI/CD, MLOps Pipelines, DVC, MLflow, Prometheus, Grafana | PyTorch, Keras, scikit-learn, LangChain, LangGraph, OpenCV, Pandas, NumPy, Matplotlib, Plotly | AWS (EC2, S3, Lambda), Azure (ADF, Databricks), MongoDB, Postgres, MySQL, Redis, Cassandra |
+
  
 
                                                                                                                                                                                                      
