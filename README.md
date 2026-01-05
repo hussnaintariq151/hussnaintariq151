@@ -43,7 +43,7 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 ---
 
 <details>
-<summary><strong>📚 Formal Education </strong></summary>
+<summary><strong>📚 Formal Education </strong> ✨</summary>
 
 - **BS**, The Islamia University Bahawalpur (2019–2023)
 - **MS**, The Islamia University Bahawalpur (2023–)
