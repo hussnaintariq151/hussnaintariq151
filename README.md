@@ -35,18 +35,17 @@
 
 *"Building intelligent, scalable AI systems with real-world impact."*
 
-AI Engineer, Data engineer & Python Developer with experience in **ML, DL, Gen AI, FastAPI, MLOps, IaC, Github Actions, Containerization, cloud (AWS & Azure), and backend development**. Strong in **system design** so actively boosting backend expertise or orchestration techniques (Kubernetes).  
+AI & DevOPs Engineer with experience in **ADF, Databricks, DVC, MLFLOW, ML, DL, Gen AI, MCP server, FastAPI, MLOps, IaC, Github Actions, Containerization, cloud (AWS & Azure), and backend development**. Strong in **system design** so actively boosting backend expertise or orchestration techniques (Kubernetes).  
 
 We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to deliver **end-to-end AI and backend-heavy projects**.
-
+We believe books build engineers, and strong systems start with algorithms, not frameworks.
 
 
 
                                                                                                                                                                                                      
 
 
-# 💫 About Me:
-🔭 I’m currently working on <br>               Machine Learning & MLOps projects (end-to-end pipelines) ; Practical AI systems like RAG chatbots, MCP servers and data-driven applications<br>👯 I’m looking to collaborate on <br>               Open-source ML / MLOps projects / LLM projects / MCP projects / Gen AI projects ; AI systems, data engineering, and backend-heavy projects &Research-inspired engineering projects with real-world impact<br>🌱 I’m currently learning <br>               Advanced Algorithms , DevOps & MLOps (Docker, CI/CD, MLflow, DVC, Kubernetes) &System design for high-performance AI systems<br>💬 Ask me about <br>               Python, Machine Learning, Deep Learning, Gen AI, Agentic AI, MCP. API Development, Backend development. &MLOps pipelines & model deployment<br>⚡ Fun fact <br>               I believe books build engineers, and strong systems start with algorithms, not frameworks.
+           I 
 
 
 ## 🌐 Socials:
