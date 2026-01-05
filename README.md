@@ -25,13 +25,18 @@
 </p>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-Expert-informational?logo=python&color=3776AB">
-  <img alt="Django" src="https://img.shields.io/badge/Django-Pro-green?logo=django">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-Ready-brightgreen?logo=fastapi">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws">
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-Active-blueviolet?logo=scikit-learn">
-  <img alt="Open for Opportunities" src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen">
+  <img alt="Python" src="https://img.shields.io/badge/Python-Production%20Ready-3776AB?logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-Data%20Engineering-blue?logo=postgresql&logoColor=white">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-End--to--End-brightgreen?logo=scikit-learn">
+  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-Implemented-orange?logo=pytorch">
+  <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-RAG%20%7C%20Agents-blueviolet">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-Production%20APIs-teal?logo=fastapi">
+  <img alt="MLOps" src="https://img.shields.io/badge/MLOps-Pipelines%20Built-success">
+  <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform">
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?logo=githubactions">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-Containerized-blue?logo=docker">
 </p>
+
 
 
 
