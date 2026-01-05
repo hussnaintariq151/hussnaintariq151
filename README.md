@@ -217,7 +217,7 @@ Conversational AI assistant for online shopping, handling customer queries, prod
 
 ---
 
-## 🌐 Links & Contact
+## 🌐 Contact me
 
 <p align="center">
 
