@@ -259,6 +259,24 @@ Conversational AI assistant for online shopping, handling customer queries, prod
 
 ---
 
+### 🧰 My Tech Radar
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-Data%20Engineering-blue?logo=postgresql&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine%20Learning-End--to--End-brightgreen?logo=scikit-learn" />
+  <img alt="DL" src="https://img.shields.io/badge/Deep%20Learning-Implemented-orange?logo=pytorch" />
+  <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-RAG|Agents-blueviolet" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-Production%20APIs-teal?logo=fastapi" />
+  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-AWS|Azure-orange?logo=amazonaws" />
+  <img alt="MLOps" src="https://img.shields.io/badge/MLOps-Pipelines%20Built-success" />
+  <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-black?logo=githubactions" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-Containerized-blue?logo=docker" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-Streaming-red?logo=apachekafka&logoColor=white" />
+</p>
+
+
 [![](https://visitcount.itsvg.in/api?id=hussnaintariq151&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
