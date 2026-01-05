@@ -49,6 +49,7 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 - **Awards**:
          - PEEF Scholarship
          - CM Youth Initiative Laptop selection
+</details>
 
 <details>
 <summary><strong>📝 Self learning </strong></summary>
@@ -60,7 +61,22 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
      - CS230: Deep Learning  
      - CS231n: Deep Learning for Computer Vision 
 
+<summary><strong> **Harvard University** </strong></summary>
+    - CS50s: Introduction to Databases with SQL  
+    - CS50s: Introduction to AI with Python  
+    - CS50s: Introduction to Data Science with Python
 
+<summary><strong> **CampusX** </strong></summary>
+    - Python, SQL,  
+    - Machine Learning, Deep Learning (Techniques + Algorithms)
+    - Mathematics for Machine Learning and Data Science
+    - Generative AI, MCP Servers,  
+    - LangChain, LangGraph
+    - FastAPI
+
+<summary><strong> **DeepLearning.AI** </strong></summary>
+    - Machine Learning in Production  
+</details>
 
  
 
