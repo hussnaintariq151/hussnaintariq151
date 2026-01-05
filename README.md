@@ -110,9 +110,21 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 - DRF  
 </details>
 
-
 </details>
 ---
+
+<details>
+<summary><strong>📚 Recommended Books</strong> ✨</summary>
+<br>
+
+- **Terraform: Up & Running** – Yevgeniy Brikman  
+- **Fundamentals of DevOps and Software Delivery** – Yevgeniy Brikman  
+- **Learning GitHub Actions** – Brent Laster  
+- **Database System Concepts** – S. Sudarshan  
+- **Designing Data-Intensive Applications** – Martin Kleppmann  
+
+</details>
+
  
 
                                                                                                                                                                                                      
