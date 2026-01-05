@@ -22,6 +22,7 @@
   <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-RAG%20%7C%20Agents-blueviolet">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-Production%20APIs-teal?logo=fastapi">
   <img alt="Cloud" src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?logo=amazonaws">
+  <img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure%20Data%20Factory-Pipelines-0078D4?logo=azuredatafactory&logoColor=white">
   <img alt="MLOps" src="https://img.shields.io/badge/MLOps-Pipelines%20Built-success">
   <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform">
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?logo=githubactions">
@@ -34,7 +35,7 @@
 
 *"Building intelligent, scalable AI systems with real-world impact."*
 
-AI Engineer, Data engineer & Python Developer with experience in **ML, DL, Gen AI, FastAPI, MLOps, IaC, Github Actions, Containerization, cloud (AWS & Azure), and backend development**. Strong in **system design** and actively boosting backend expertise or orchestration techniques (Kubernetes).  
+AI Engineer, Data engineer & Python Developer with experience in **ML, DL, Gen AI, FastAPI, MLOps, IaC, Github Actions, Containerization, cloud (AWS & Azure), and backend development**. Strong in **system design** so actively boosting backend expertise or orchestration techniques (Kubernetes).  
 
 We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to deliver **end-to-end AI and backend-heavy projects**.
 
