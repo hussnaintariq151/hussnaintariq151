@@ -42,6 +42,27 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 > 🤝 **Our philosophy:** We believe books build engineers, and strong systems start with algorithms, not frameworks.
 ---
 
+<details>
+<summary><strong>📚 Formal Education </strong></summary>
+
+- **BSc Chemistry**, The Islamia University Bahawalpur (2019–2023)
+- **Awards**:
+         - PEEF Scholarship
+         - CM Youth Initiative Laptop selection
+
+<details>
+<summary><strong>📝 Self learning </strong></summary>
+
+<summary><strong> **Stanford University** </strong></summary>
+     - CS229: Machine Learning  
+     - CS224u: Natural Language Understanding  
+     - CS224n: Natural Language Processing with Deep Learning  
+     - CS230: Deep Learning  
+     - CS231n: Deep Learning for Computer Vision 
+
+
+
+ 
 
                                                                                                                                                                                                      
 
