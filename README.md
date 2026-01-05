@@ -114,8 +114,10 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 ---
 
 <details>
-<summary><strong>📚 Recommended Books</strong> ✨</summary>
+<summary><strong>📚 Books I've Read </strong> ✨</summary>
 <br>
+
+These books I have read to strengthen my **DevOps, MLOps, cloud, backend, and data engineering skills**:
 
 - **Terraform: Up & Running** – Yevgeniy Brikman  
 - **Fundamentals of DevOps and Software Delivery** – Yevgeniy Brikman  
