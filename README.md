@@ -31,6 +31,7 @@
   <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-Implemented-orange?logo=pytorch">
   <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-RAG%20%7C%20Agents-blueviolet">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-Production%20APIs-teal?logo=fastapi">
+  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?logo=amazonaws">
   <img alt="MLOps" src="https://img.shields.io/badge/MLOps-Pipelines%20Built-success">
   <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform">
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?logo=githubactions">
