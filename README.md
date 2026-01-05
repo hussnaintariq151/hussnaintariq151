@@ -248,53 +248,17 @@ Conversational AI assistant for online shopping, handling customer queries, prod
 > **“Eager to contribute to cutting-edge projects in a dynamic environment that fosters growth and collaboration.”**
 
 ---
-
-# 📊 GitHub Stats & Activity
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hussnaintariq151&show_icons=true&theme=radical&hide_title=false&count_private=true" alt="Hussnain Tariq's GitHub Stats" width="48%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussnaintariq151&layout=compact&theme=radical&hide_title=false&langs_count=8" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=hussnaintariq151&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hussnaintariq151&theme=radical&margin-w=10&margin-h=10" alt="Trophies" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussnaintariq151&theme=radical" alt="Contribution Graph" />
-</p>
-
-                                                                                                                                                                                                     
-
-
-           I 
-
-
-
-
+                                                                                                   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hussnaintariq151&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hussnaintariq151&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussnaintariq151&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hussnaintariq151&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hussnaintariq151&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=hussnaintariq151&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
