@@ -45,7 +45,8 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 <details>
 <summary><strong>📚 Formal Education </strong></summary>
 
-- **BSc Chemistry**, The Islamia University Bahawalpur (2019–2023)
+- **BS**, The Islamia University Bahawalpur (2019–2023)
+- **MS**, The Islamia University Bahawalpur (2023–)
 - **Awards**:
          - PEEF Scholarship
          - CM Youth Initiative Laptop selection
@@ -53,7 +54,7 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 
 ---
 <details>
-<summary><strong>📝 Self learning </strong></summary>
+<summary><strong>📝 Self Education </strong> ✨</summary>
 <br>
 
   <details>
