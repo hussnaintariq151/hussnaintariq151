@@ -1,3 +1,7 @@
+
+**Hussnain Tariq & Rao Ibrar Jamal**
+
+
 # 💫 About Me:
 🔭 I’m currently working on <br>               Machine Learning & MLOps projects (end-to-end pipelines) ; Practical AI systems like RAG chatbots, MCP servers and data-driven applications<br>👯 I’m looking to collaborate on <br>               Open-source ML / MLOps projects / LLM projects / MCP projects / Gen AI projects ; AI systems, data engineering, and backend-heavy projects &Research-inspired engineering projects with real-world impact<br>🌱 I’m currently learning <br>               Advanced Algorithms , DevOps & MLOps (Docker, CI/CD, MLflow, DVC, Kubernetes) &System design for high-performance AI systems<br>💬 Ask me about <br>               Python, Machine Learning, Deep Learning, Gen AI, Agentic AI, MCP. API Development, Backend development. &MLOps pipelines & model deployment<br>⚡ Fun fact <br>               I believe books build engineers, and strong systems start with algorithms, not frameworks.
 
