@@ -158,7 +158,38 @@ These books I have read to strengthen my **DevOps, MLOps, cloud, backend, and da
 |-----------|------------|-------|-----------|------------|
 | Python, SQL, Bash, PowerShell | Django, FastAPI | Docker, GitHub Actions, Terraform, CI/CD, MLOps Pipelines, DVC, MLflow, Prometheus, Grafana | PyTorch, Keras, scikit-learn, LangChain, LangGraph, OpenCV, Pandas, NumPy, Matplotlib, Plotly | AWS (EC2, S3, Lambda), Azure (ADF, Databricks), MongoDB, Postgres, MySQL, Redis, Cassandra |
 
- 
+---
+
+## 🧠 Creative Projects
+
+<details>
+<summary><strong>Mock Interview Practice</strong></summary>
+AI-powered system to simulate real interview scenarios, provide feedback, and track improvement over time.
+</details>
+
+<details>
+<summary><strong>Balzi Rossi (Archaeological Site) Bot</strong></summary>
+Interactive chatbot to explore the Balzi Rossi archaeological site, answer visitor questions, and provide historical insights.
+</details>
+
+<details>
+<summary><strong>Job-Resume Matcher</strong></summary>
+Analyzes job posts and resumes, calculates matching scores, highlights missing skills, and generates improvement suggestions.
+</details>
+
+<details>
+<summary><strong>Vehicle Insurance System</strong></summary>
+End-to-end vehicle insurance application integrated with banking workflows and automated claim processing.
+</details>
+
+<details>
+<summary><strong>E-commerce Chatbot</strong></summary>
+Conversational AI assistant for online shopping, handling customer queries, product recommendations, and support tasks.
+</details>
+
+---
+
+
 
                                                                                                                                                                                                      
 
