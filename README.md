@@ -131,7 +131,26 @@ These books I have read to strengthen my **DevOps, MLOps, cloud, backend, and da
 
 ---
 
+## 🧑‍💻 Experience Highlights
 
+<details>
+<summary><strong>Collaborative Contribution – InstaMailAI </strong></summary>
+
+- Assisted in designing **vector search pipelines** 
+- Supported integration of **OpenAI** for RAG workflows for real-time email processing 
+</details>
+
+<details>
+<summary><strong>Upwork Projects (2024–Present)</strong></summary>
+
+- Delivered **end-to-end AI & ML solutions** for clients, including predictive models, web automation, and RAG chatbots  
+- Built **FastAPI APIs** and deployed models using **Docker, CI/CD, and MLOps pipelines**  
+- Designed **data pipelines and backend systems** for real-time and batch workflows  
+- Worked with **AWS & Azure** cloud services to deploy and monitor AI solutions  
+
+</details>
+
+---
  
 
                                                                                                                                                                                                      
