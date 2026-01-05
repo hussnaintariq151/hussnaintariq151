@@ -17,11 +17,11 @@
            ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ 
 
 <p align="center">
-  <b>Python Backend | AI Engineer | Data Engineering | Web Scraper | Web Automation | Latex</b><br>
-  <a href="mailto:ahsantariq0724@gmail.com">ahsantariq0724@gmail.com</a> • 
-  <a href="https://linkedin.com/in/ahsan-tariq-0724-/">LinkedIn</a> • 
-  <a href="https://github.com/ahsantariq7">GitHub</a> • 
-  <a href="tel:+923228791599">+92-3390879159</a>
+  <b>AI Engineer | Data Engineer | ML Engineer | Data Scientist | MLOPs Engineer | IAC Engineer </b><br>
+  <a href="mailto:hussnaintariq151@gmail.com">hussnaintariq151@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/hussnain-tariq-02454934a/">LinkedIn</a> • 
+  <a href="https://github.com/hussnaintariq151">GitHub</a> • 
+  <a href="tel:+923261066809">+92-3261066809</a>
 </p>
 
 <p align="center">
