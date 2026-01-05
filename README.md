@@ -29,6 +29,13 @@
 </p>
 
 ---
+## 🚀 About Me
+
+*"Building intelligent, scalable AI systems with real-world impact."*
+
+AI Engineer & Python Developer with experience in **ML, DL, Gen AI, FastAPI, MLOps, Terraform, CI/CD, Docker, cloud (AWS & Azure), and backend development**. Strong in **system design** and actively boosting backend expertise.  
+
+We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to deliver **end-to-end AI and backend-heavy projects**.
 
 
 
