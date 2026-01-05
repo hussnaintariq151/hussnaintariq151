@@ -55,17 +55,17 @@ We collaborate **[Rao Ibrar Jamal](https://github.com/RaoIbrarJamal)** to delive
 <details>
 <summary><strong>📝 Self learning </strong></summary>
 
-<details>
-<summary><strong> Stanford University </strong></summary>
+  <details>
+  <summary><strong> Stanford University </strong></summary>
      
-- CS229: Machine Learning  
-- CS224u: Natural Language Understanding  
-- CS224n: Natural Language Processing with Deep Learning  
-- CS230: Deep Learning  
-- CS231n: Deep Learning for Computer Vision 
-</details>
+   - CS229: Machine Learning  
+   - CS224u: Natural Language Understanding  
+   - CS224n: Natural Language Processing with Deep Learning  
+   - CS230: Deep Learning  
+   - CS231n: Deep Learning for Computer Vision 
+  </details>
 
-<details>
+ <details>
 <summary><strong> Harvard University </strong></summary>
            
 - CS50s: Introduction to Databases with SQL  
