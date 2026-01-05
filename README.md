@@ -27,11 +27,7 @@
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?logo=githubactions">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-Containerized-blue?logo=docker">
 </p>
-
-<sub align="center">
-AI Engineer building production-grade ML & Generative AI systems with cloud deployment,
-Terraform-based infrastructure, CI/CD automation, and containerized APIs.
-</sub>
+---
 
 
 
